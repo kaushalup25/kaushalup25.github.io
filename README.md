@@ -1,4 +1,4 @@
-## Welcome to the final show
+## Welcome to the kaushal's Homepge!
 
 You can use the [editor on GitHub](https://github.com/kaushalup25/kaushalup25.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
